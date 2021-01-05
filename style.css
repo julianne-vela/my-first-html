@@ -1,0 +1,62 @@
+header {
+    background-color: green;
+    font-family: cursive;
+    text-align: center;
+}
+
+.moher {
+    font-weight: bold;
+    font-family: cursive;
+    background-color: bisque;
+}
+
+.blarney {
+    font-weight: bold;
+    font-family: cursive;
+    background-color: bisque;
+}
+
+.grafton {
+    font-weight: bold;
+    font-family: cursive;
+    background-color: bisque;
+}
+
+.kerry {
+    font-weight: bold;
+    font-family: cursive;
+    background-color: bisque;
+}
+
+.spanish_pointe {
+    font-weight: bold;
+    font-family: cursive;
+    background-color: bisque;
+}
+
+.boxes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.white {
+    background-color: white;
+    box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+}
+
+.green {
+    background-color: green;
+    box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+}
+
+.orange {
+    background-color: orange;
+    box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+}
